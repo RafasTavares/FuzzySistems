@@ -1,5 +1,5 @@
 # SistemasFuzzy
-Trabalho da disciplina de Fuzzy UFBA
+#### Trabalho da disciplina de Fuzzy UFBA
  <br />
 -Database <br />
 ---- Acesso_a_internet_e_posse_celular  <br />
@@ -9,7 +9,15 @@ Trabalho da disciplina de Fuzzy UFBA
 -------------------- 01_Utilizacao_da_Internet.xlsx<br />
 -------------------- 02_Equipamento_Utlizado_para_Acessar_a_Internet.xlsx<br />
 -------------------- 03_Posse_de_Telefone_Movel_Celular.xlsx<br />
+-------------------- **Uso da net em 2015** ( Arquivo Usado)
 
+
+#### Dados Sumarizados
+![Dados Sumarizados](/img/Dados_Sumarizados_Min_a_Max.png)
+
+
+### Link da Apresentação: 
+https://docs.google.com/presentation/d/1jcUyPWMk5Qyr3bsCqSadAjs8pdAweEvd25grgv_WL_A/edit?usp=sharing
 
 DATA: https://downloads.ibge.gov.br/downloads_estatisticas.htm
 
