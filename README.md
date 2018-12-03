@@ -1,5 +1,5 @@
 # SistemasFuzzy
-Trabalho da disciplina de Fuzzy UFBA
+#### Trabalho da disciplina de Fuzzy UFBA
  <br />
 -Database <br />
 ---- Acesso_a_internet_e_posse_celular  <br />
@@ -12,7 +12,7 @@ Trabalho da disciplina de Fuzzy UFBA
 -------------------- **Uso da net em 2015** ( Arquivo Usado)
 
 
-Dados Sumarizados
+#### Dados Sumarizados
 ![Dados Sumarizados](/img/Dados_Sumarizados_Min_a_Max.png)
 
 
